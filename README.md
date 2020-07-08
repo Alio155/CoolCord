@@ -1,0 +1,2 @@
+# CoolCord
+A discord Theme
